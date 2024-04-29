@@ -1,4 +1,3 @@
-[ds (1)](https://github.com/sahilnegi1/SQL-server-mngmt-studio/assets/89196598/1d0e558d-3f38-4359-bcc3-67b1ae75d893)
 
 ![ds (1)](https://github.com/sahilnegi1/SQL-server-mngmt-studio/assets/89196598/4a37b7f0-52a7-425b-980b-bc2c1c94ebfb)
 
